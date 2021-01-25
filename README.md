@@ -1,4 +1,4 @@
-[![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=blue&link=mailto:fares.metidji@outlook.fr](mailto:faresmeti@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:fares.metidji@outlook.fr](mailto:faresmeti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/faresmetidji/)
 
 
