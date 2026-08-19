@@ -28,7 +28,7 @@ I work across software delivery and operations:
 - **DevOps & Cloud**: Containerization, CI/CD automation (**Docker**, **Kubernetes**, **GitLab CI**, **Ansible**), and observability (**Prometheus**, **Grafana**).
 
 🎓 **Education**: Master's Degree in Networks & Systems Engineering (*CY Cergy Paris University*).  
-🏢 **Track Record**: Experience supporting critical enterprise applications at *Conseil Départemental des Yvelines*, *Publicis Groupe*, *Vocalcom*, and *Orange*.
+🏢 **Track Record**: 5+ years supporting and deploying 150+ critical enterprise services across hybrid Cloud & Linux/Windows infrastructure.
 
 ---
 
