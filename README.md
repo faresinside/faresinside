@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>Fares METIDJI</h1>
-  <p><strong>DevOps Engineer & Full-Stack Developer</strong></p>
+  <p><strong>DevSecOps Engineer & Full-Stack AI Developer</strong></p>
 
   <p align="center">
     <a href="mailto:fares.metidji@outlook.fr">
-      <img src="https://img.shields.io/badge/Status-🟢_Available_for_Projects-10b981?style=flat-square" alt="Status Badge" />
+      <img src="https://img.shields.io/badge/Status-🟢_Available_for_Freelance-10b981?style=flat-square" alt="Status Badge" />
     </a>
     <a href="https://www.linkedin.com/in/faresmetidji/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,34 +24,34 @@
 
 ### 👨‍💻 About
 
-I am an engineer with **5+ years of enterprise experience** in application integration, deployment automation, and production systems reliability across Linux & Windows environments.
+I am an engineer with **5+ years of enterprise experience** in application integration, deployment automation, security hardening, and Cloud reliability across Linux & Windows environments.
 
-I work on both sides of modern software delivery:
-- **Development**: Web applications and APIs using **Python (FastAPI)**, **TypeScript**, and **React**.
-- **DevOps & Cloud**: Containerization, CI/CD automation (**Docker**, **Kubernetes**, **GitLab CI**, **Ansible**), and production monitoring (**Prometheus**, **Grafana**).
+I work at the intersection of modern software delivery:
+- **AI & Full-Stack Development**: Web apps, AI Agents & APIs using **Python (FastAPI)**, **TypeScript**, **React**, and **LLM Integrations (OpenAI, Gemini, Ollama, pgvector / RAG)**.
+- **DevSecOps & Cloud**: Containerization, CI/CD security pipelines (**Docker**, **Kubernetes**, **GitLab CI**, **Trivy / SAST**, **Ansible**), and observability (**Prometheus**, **Grafana**).
 
-🎓 **Education**: Master's Degree in Computer Science & Complex Systems Engineering (*CY Cergy Paris University*).  
-🏢 **Track Record**: Experience supporting critical production applications at *Conseil Départemental des Yvelines*, *Publicis Groupe*, *Vocalcom*, and *Orange*.
+🎓 **Education**: Master's Degree in Networks, Security & Distributed Systems (*CY Cergy Paris University*).  
+🏢 **Track Record**: Proven enterprise track record supporting 150+ critical applications at *Conseil Départemental des Yvelines*, *Publicis Groupe*, *Vocalcom*, and *Orange*.
 
 ---
 
 ### 🛠️ Technical Stack
 
-- **Cloud & DevOps**: Docker, Kubernetes, GitLab CI, GitHub Actions, Ansible, AWS, Traefik, Linux (RHEL, Debian)
-- **Backend & Scripting**: Python 3.12 (FastAPI, Flask), TypeScript (Fastify, Node.js), Bash, PowerShell, AsyncIO
-- **Frontend & Mobile**: React, TypeScript, React Native (Expo), HTML5, CSS3
-- **Databases & Caching**: PostgreSQL, SQLite, Drizzle ORM, Redis, MariaDB, MySQL, Oracle Database
-- **Observability**: Prometheus, Grafana, Nagios, Tier-3 Incident Troubleshooting
+- **DevSecOps & Cloud**: Docker, Kubernetes, GitLab CI, GitHub Actions, Trivy / SAST Scans, Ansible, AWS, Traefik, Linux Hardening
+- **AI & Backend Engineering**: Python 3.12 (FastAPI, Pydantic), LLM APIs (OpenAI, Gemini, Ollama), pgvector / RAG, TypeScript (Fastify, Node.js), AsyncIO
+- **Frontend & Mobile**: React, TypeScript, React Native (Expo), Modern Responsive CSS3, Redux Toolkit
+- **Databases, Security & Caching**: PostgreSQL, pgvector, Secrets Management (Vault, SOPS), SQLite (Drizzle ORM), Redis, Oracle, MySQL
+- **Observability**: Prometheus, Grafana, Nagios, Tier-3 Incident Troubleshooting & SLA Management
 
 ---
 
 ### 🚀 Selected Projects & Case Studies
 
-- **RemoteRadar AI**: Asynchronous multi-source scraper with semantic candidate matching and automated document generation. *(FastAPI, Python, AsyncIO, Docker)*
+- **RemoteRadar AI**: Intelligent market scraper & semantic match engine powered by Google Gemini Pro LLM with automated PDF generation. *(FastAPI, Python, Gemini AI, AsyncIO, Docker)*
+- **IntraSys AI Hub**: Private, self-hosted LLM & RAG retrieval platform leveraging local Ollama models and PostgreSQL pgvector embeddings. *(FastAPI, Ollama, pgvector, LangChain, React)*
+- **Enterprise DevSecOps**: Hardened CI/CD pipeline infrastructure with automated vulnerability scanning (Trivy), container orchestration, and telemetry for 150+ applications. *(GitLab CI, Kubernetes, Docker, Trivy, Prometheus)*
 - **ScanCraft**: Offline-first mobile scanner with local SQLite persistence and lightweight REST API caching. *(React Native, Fastify, PostgreSQL, Redis)*
 - **PortaPulse**: Real-time stock availability monitoring service with multi-channel webhook alerting. *(Python, Traefik, Docker Compose, Raspberry Pi)*
-- **MediaFlow**: Headless video compositing and rendering pipeline. *(Python, FFmpeg, MoviePy, Pillow)*
-- **DataInsight ETL**: Automated ingestion and structural text parsing pipeline for complex public legal records. *(Python, pdfminer, PostgreSQL)*
 
 ---
 
