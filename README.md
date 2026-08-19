@@ -38,12 +38,8 @@ Ingénieur diplômé d'un **Master 2 en Réseaux & Sécurité** avec plus de **5
 
 <br/>
 
----
-
-### 📈 Activité & Télémétrie GitHub
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faresinside&theme=tokyo-night&hide_border=true&area=true&bg_color=070a13&color=06b6d4&line=8b5cf6&point=06b6d4" width="100%" alt="Activity Graph" />
+  <img src="assets/images/tech-distribution.svg" width="100%" alt="Répartition Technologique" />
 </div>
 
 ---
