@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Fares METIDJI</h1>
-  <p><strong>DevOps Engineer & Full-Stack Developer</strong></p>
+  <p><strong>DevSecOps Engineer & Full-Stack Developer</strong></p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/faresmetidji/">
@@ -24,8 +24,8 @@
 I am an engineer with **5+ years of enterprise experience** in application integration, deployment automation, and production reliability across Linux & Windows environments.
 
 I work across software delivery and operations:
-- **Development**: Web applications, APIs, and integrations using **Python (FastAPI)**, **TypeScript**, and **React**.
-- **DevOps & Cloud**: Containerization, CI/CD automation (**Docker**, **Kubernetes**, **GitLab CI**, **Ansible**), and observability (**Prometheus**, **Grafana**).
+- **DevSecOps & Cloud**: Containerization, CI/CD automation (**Docker**, **Kubernetes**, **GitLab CI**, **Ansible**, **Trivy scans**), and observability (**Prometheus**, **Grafana**).
+- **Development**: Web applications, APIs, and AI integrations using **Python (FastAPI)**, **TypeScript**, **React**, and **pgvector**.
 
 🎓 **Education**: Master's Degree in Networks & Systems Engineering (*CY Cergy Paris University*).  
 🏢 **Track Record**: 5+ years supporting and deploying 150+ critical enterprise services across hybrid Cloud & Linux/Windows infrastructure.
