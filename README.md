@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>Fares METIDJI</h1>
-  <p><strong>DevSecOps Engineer & Full-Stack AI Developer</strong></p>
+  <p><strong>DevOps Engineer & Full-Stack Developer</strong></p>
 
   <p align="center">
     <a href="mailto:fares.metidji@outlook.fr">
-      <img src="https://img.shields.io/badge/Status-🟢_Available_for_Freelance-10b981?style=flat-square" alt="Status Badge" />
+      <img src="https://img.shields.io/badge/Status-🟢_Available_for_Projects-10b981?style=flat-square" alt="Status Badge" />
     </a>
     <a href="https://www.linkedin.com/in/faresmetidji/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,14 +24,14 @@
 
 ### 👨‍💻 About
 
-I am an engineer with **5+ years of enterprise experience** in application integration, deployment automation, security hardening, and Cloud reliability across Linux & Windows environments.
+I am an engineer with **5+ years of enterprise experience** in application integration, deployment automation, and production reliability across Linux & Windows environments.
 
-I work at the intersection of modern software delivery:
-- **AI & Full-Stack Development**: Web apps, AI Agents & APIs using **Python (FastAPI)**, **TypeScript**, **React**, and **LLM Integrations (OpenAI, Gemini, Ollama, pgvector / RAG)**.
-- **DevSecOps & Cloud**: Containerization, CI/CD security pipelines (**Docker**, **Kubernetes**, **GitLab CI**, **Trivy / SAST**, **Ansible**), and observability (**Prometheus**, **Grafana**).
+I work across software delivery and operations:
+- **Development**: Web applications, APIs, and integrations using **Python (FastAPI)**, **TypeScript**, and **React**.
+- **DevOps & Cloud**: Containerization, CI/CD automation (**Docker**, **Kubernetes**, **GitLab CI**, **Ansible**), and observability (**Prometheus**, **Grafana**).
 
-🎓 **Education**: Master's Degree in Networks, Security & Distributed Systems (*CY Cergy Paris University*).  
-🏢 **Track Record**: Proven enterprise track record supporting 150+ critical applications at *Conseil Départemental des Yvelines*, *Publicis Groupe*, *Vocalcom*, and *Orange*.
+🎓 **Education**: Master's Degree in Networks & Systems Engineering (*CY Cergy Paris University*).  
+🏢 **Track Record**: Experience supporting critical enterprise applications at *Conseil Départemental des Yvelines*, *Publicis Groupe*, *Vocalcom*, and *Orange*.
 
 ---
 
