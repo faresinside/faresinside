@@ -38,9 +38,12 @@ Ingénieur diplômé d'un **Master 2 en Réseaux & Sécurité** avec plus de **5
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/faresinside/faresinside/main/assets/images/tech-distribution.svg" width="100%" alt="Répartition Technologique" />
-</div>
+| Pôle d'Expertise | Technologies & Outils Clés | Focus & Volume |
+| :--- | :--- | :---: |
+| 🐍 **Backend, APIs & IA** | `Python 3.12`, `FastAPI`, `Pydantic`, `pgvector (RAG)`, `AsyncIO` | **35%** |
+| 🔒 **DevSecOps & Cloud** | `Docker`, `Kubernetes`, `GitLab CI`, `GitHub Actions`, `Trivy`, `Linux Hardening` | **30%** |
+| ⚛️ **Web & Mobile** | `React`, `TypeScript`, `React Native (Expo)`, `CSS3 Modulaire` | **20%** |
+| 🐘 **Bases & Observabilité** | `PostgreSQL`, `Redis`, `Prometheus`, `Grafana`, `Gestion de Secrets` | **15%** |
 
 ---
 
