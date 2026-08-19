@@ -25,7 +25,7 @@ Paris, France • [faresinside.github.io](https://faresinside.github.io/)
 
 ### 👨‍💻 Profil & Positionnement
 
-Ingénieur DevSecOps & logiciel avec plus de 5 ans d'expérience en production et titulaire d'un Master en Réseaux & Sécurité. J'interviens sur :
+Ingénieur DevSecOps & logiciel avec plus de 5 ans d'expérience en production et titulaire d'un Master 2 en Informatique (Réseaux & Sécurité). J'interviens sur :
 
 * 🔒 **DevSecOps & Cloud** : Automatisation d'infrastructures Cloud sécurisées (**Docker**, **Kubernetes**, pipelines CI/CD durcis, scans de vulnérabilités **Trivy**).
 * ⚡ **Web & APIs** : Développement d'applications web fiables et performantes (**Python 3.12**, **FastAPI**, **TypeScript**, **React**).
@@ -55,27 +55,28 @@ Ingénieur DevSecOps & logiciel avec plus de 5 ans d'expérience en production e
 </details>
 
 <details open>
-<summary><b>2. ScanCraft — App Mobile Offline-First & API Microservices</b></summary>
+<summary><b>2. Smart Cast Scheduler — Automatisation Domotique IoT (Open Source)</b></summary>
 <br/>
 
-* **Périmètre :** Application mobile d'analyse instantanée de produits par scan optique (ML Kit), avec disponibilité absolue même sans connexion réseau.
-* **Architecture :** Front-end **React Native (Expo)** avec persistance **SQLite locale**, synchronisation API **Fastify / TypeScript** et cache ultra-rapide **Redis / Dragonfly**.
-* **Technologies :** `React Native` • `Expo` • `TypeScript` • `Fastify` • `PostgreSQL` • `Redis` • `ML Kit`
+* **Périmètre :** Application auto-hébergée déclenchant des actions programmées sur des appareils connectés du réseau local, à partir d'un calendrier de données (~10 000 emplacements).
+* **Architecture :** Backend **FastAPI** avec scheduler interne (**APScheduler**), découverte d'appareils par **mDNS** sous Docker, front-end **React/Vite** multilingue (FR/EN/AR, RTL).
+* **Technologies :** `FastAPI` • `React` • `APScheduler` • `Docker` • `SQLite` • `i18n RTL`
+* **Dépôt public :** [github.com/faresinside/athan-app](https://github.com/faresinside/athan-app) — licence MIT
 
 </details>
 
 <details open>
-<summary><b>3. IntraSys AI Hub — Hub IA & RAG Sécurisé (Local-First)</b></summary>
+<summary><b>3. ScanCraft — App Mobile Offline-First & API Microservices</b></summary>
 <br/>
 
-* **Périmètre :** Gestion documentaire d'entreprise souveraine avec recherche sémantique vectorielle et LLM local (zéro fuite de données externe).
-* **Architecture :** Backend asynchrone **FastAPI**, base vectorielle **PostgreSQL (pgvector)**, inférence locale **Ollama** et interface web **React**.
-* **Technologies :** `FastAPI` • `pgvector` • `Ollama` • `Python 3.12` • `React` • `Docker`
+* **Périmètre :** Application mobile d'analyse instantanée de produits par scan (code-barres/OCR) et classification d'ingrédients par IA, avec disponibilité même sans connexion réseau.
+* **Architecture :** Front-end **React Native (Expo)** avec cache local offline-first, backend **Fastify / TypeScript**, base **PostgreSQL (Drizzle ORM)** et cache **Redis**.
+* **Technologies :** `React Native` • `Expo` • `TypeScript` • `Fastify` • `PostgreSQL` • `Redis`
 
 </details>
 
 <details open>
-<summary><b>4. Usine Logicielle DevSecOps & Cloud — Pipeline CI/CD Hardened</b></summary>
+<summary><b>4. Infrastructure Entreprise & DevSecOps — Pipeline CI/CD Durci</b></summary>
 <br/>
 
 * **Périmètre :** Automatisation des déploiements et sécurisation continue pour plus de 150 applications et microservices.
