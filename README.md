@@ -39,7 +39,7 @@ Ingénieur diplômé d'un **Master 2 en Réseaux & Sécurité** avec plus de **5
 <br/>
 
 <div align="center">
-  <img src="assets/images/tech-distribution.svg" width="100%" alt="Répartition Technologique" />
+  <img src="https://raw.githubusercontent.com/faresinside/faresinside/main/assets/images/tech-distribution.svg" width="100%" alt="Répartition Technologique" />
 </div>
 
 ---
