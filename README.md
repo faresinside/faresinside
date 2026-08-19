@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <h1>Fares METIDJI</h1>
   <p><strong>Ingénieur DevSecOps & Développeur Full-Stack</strong></p>
@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-faresmetidji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://faresinside.github.io/#contact">
-      <img src="https://img.shields.io/badge/Contact-Formulaire_Securise-8b5cf6?style=for-the-badge&logo=shield&logoColor=white" alt="Contact Securise" />
+      <img src="https://img.shields.io/badge/Contact-Formulaire_Sécurisé-8b5cf6?style=for-the-badge&logo=shield&logoColor=white" alt="Contact Sécurisé" />
     </a>
   </p>
 
@@ -44,7 +44,7 @@ Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans 
 
 <br/>
 
-`	ext
+```text
 ======================= 🛠️ DOMAINES D'EXPERTISE & FOCUS =======================
 🔒 DevSecOps & Cloud CI/CD    [████████████████████░░░░]  85%  (Docker, K8s, GitLab, Trivy)
 ⚡ Backend & APIs (FastAPI)    [███████████████████░░░░░]  80%  (Python 3.12, AsyncIO, SQL)
@@ -52,7 +52,7 @@ Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans 
 🎨 Frontend Web (React / TS)   [███████████████░░░░░░░░░]  65%  (React, TypeScript, CSS3)
 🛡️ Observabilité & MCO N3      [███████████████████░░░░░]  80%  (Prometheus, Grafana, Logs)
 ================================================================================
-`
+```
 
 <br/>
 
@@ -87,10 +87,10 @@ Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans 
 
 | Projet | Description & Périmètre | Stack Principale |
 | :--- | :--- | :--- |
-| **[IntraSys AI Hub](https://faresinside.github.io/#projects)** | Plateforme IA & RAG privée avec LLM local (Ollama) et recherche vectorielle pgvector pour la gestion documentaire sécurisée. | FastAPI, pgvector, Ollama, React, Docker |
-| **[Enterprise DevSecOps](https://faresinside.github.io/#projects)** | Infrastructure de pipeline CI/CD durcie avec scans de vulnérabilités automatiques (Trivy), conteneurs et télémétrie pour 150+ applications. | GitLab CI, Kubernetes, Docker, Trivy, Prometheus |
-| **[RemoteRadar AI](https://faresinside.github.io/#projects)** | Moteur de scraping asynchrone multi-plateformes et analyse sémantique assistée par LLM Gemini avec génération de rapports. | FastAPI, Python 3.12, Gemini API, Docker Compose |
-| **[ScanCraft](https://faresinside.github.io/#projects)** | Application mobile offline-first de gestion d'inventaire avec persistance SQLite locale et synchronisation REST API. | React Native, TypeScript, Fastify, PostgreSQL |
+| **[IntraSys AI Hub](https://faresinside.github.io/#projects)** | Plateforme IA & RAG privée avec LLM local (Ollama) et recherche vectorielle pgvector pour la gestion documentaire sécurisée. | `FastAPI`, `pgvector`, `Ollama`, `React`, `Docker` |
+| **[Enterprise DevSecOps](https://faresinside.github.io/#projects)** | Infrastructure de pipeline CI/CD durcie avec scans de vulnérabilités automatiques (Trivy), conteneurs et télémétrie pour 150+ applications. | `GitLab CI`, `Kubernetes`, `Docker`, `Trivy`, `Prometheus` |
+| **[RemoteRadar AI](https://faresinside.github.io/#projects)** | Moteur de scraping asynchrone multi-plateformes et analyse sémantique assistée par LLM Gemini avec génération de rapports. | `FastAPI`, `Python 3.12`, `Gemini API`, `Docker Compose` |
+| **[ScanCraft](https://faresinside.github.io/#projects)** | Application mobile offline-first de gestion d'inventaire avec persistance SQLite locale et synchronisation REST API. | `React Native`, `TypeScript`, `Fastify`, `PostgreSQL` |
 
 ---
 
