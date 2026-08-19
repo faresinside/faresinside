@@ -1,20 +1,20 @@
 <div align="center">
 
   <h1>Fares METIDJI</h1>
-  <h3>🔒 Ingénieur DevSecOps & Développeur Full-Stack (Cloud & IA)</h3>
-  <p><em>Master 2 Réseaux & Sécurité • 5+ ans d'expérience en production • Full Remote & Déplacements</em></p>
+  <p><strong>Ingénieur DevSecOps & Développeur Full-Stack</strong></p>
+  <p><em>Cloud, Conteneurs, Sécurité CI/CD & Développement d'APIs</em></p>
 
   <br/>
 
   <p align="center">
     <a href="https://faresinside.github.io/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio_Live-faresinside.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-faresinside.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/faresmetidji/">
-      <img src="https://img.shields.io/badge/👔_LinkedIn-faresmetidji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-faresmetidji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:fares.metidji@outlook.fr">
-      <img src="https://img.shields.io/badge/✉️_Email-fares.metidji@outlook.fr-8b5cf6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-fares.metidji@outlook.fr-8b5cf6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -26,17 +26,17 @@
 
 ---
 
-### 👨‍💻 À Propos / Overview
+### 👨‍💻 À Propos
 
-Ingénieur diplômé d'un **Master 2 en Réseaux & Sécurité** avec plus de **5 ans d'expérience en production** sur des environnements d'entreprise critiques. J'accompagne les équipes et porteurs de projet sur :
+Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans d'expérience en production sur des environnements d'entreprise. J'interviens sur :
 
-* 🔒 **DevSecOps & Cloud** : Pipelines CI/CD automatisés et durcis (**GitLab CI**, **GitHub Actions**, **Trivy SAST**), conteneurisation (**Docker**, **Kubernetes**), serveurs Linux et supervision (**Prometheus**, **Grafana**).
-* ⚡ **Développement Full-Stack & APIs** : Conception d'APIs performantes et modulaires (**Python 3.12**, **FastAPI**, **TypeScript**, **Node.js**) et d'interfaces web réactives (**React**).
-* 🤖 **Intégration IA & RAG** : Intégration de modèles LLM (Gemini, Ollama), recherche vectorielle (**PostgreSQL pgvector**), et chaînes de traitement asynchrones.
+* 🔒 **DevSecOps & Cloud** : Pipelines CI/CD automatisés et durcis (**GitLab CI**, **GitHub Actions**, **Trivy**), conteneurs (**Docker**, **Kubernetes**), serveurs Linux et supervision (**Prometheus**, **Grafana**).
+* ⚡ **Développement Full-Stack & APIs** : Conception d'APIs performantes (**Python 3.12**, **FastAPI**, **TypeScript**, **Node.js**) et d'interfaces web réactives (**React**).
+* 🤖 **Intégration IA & RAG** : Modèles LLM (Gemini, Ollama), bases vectorielles (**PostgreSQL pgvector**), et chaînes de traitement de données.
 
 ---
 
-### 🛠️ Stack Technique / Tech Stack
+### 🛠️ Stack Technique
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,githubactions,linux,aws,py,fastapi,react,ts,nodejs,postgres,redis,prometheus,grafana&perline=8" alt="Tech Stack Icons" />
@@ -46,15 +46,15 @@ Ingénieur diplômé d'un **Master 2 en Réseaux & Sécurité** avec plus de **5
 
 | Pôle d'Expertise | Technologies & Outils |
 | :--- | :--- |
-| **DevSecOps & Cloud** | Docker, Kubernetes, GitLab CI, GitHub Actions, Trivy (SAST/Conteneurs), Ansible, AWS, Traefik, Linux Hardening |
+| **DevSecOps & Cloud** | Docker, Kubernetes, GitLab CI, GitHub Actions, Trivy (Scans SAST), Ansible, AWS, Traefik, Linux Hardening |
 | **Backend & IA** | Python 3.12, FastAPI, Pydantic, LLM APIs (Gemini/OpenAI), pgvector (RAG), Ollama, TypeScript, AsyncIO |
-| **Frontend & Mobile** | React, TypeScript, React Native (Expo), Modern CSS3 / Responsive Layouts, Redux Toolkit |
-| **Bases & Caching** | PostgreSQL, Redis, SQLite (Drizzle ORM), Oracle, MySQL, Secrets Management (SOPS / Vault) |
-| **Supervision & MCO** | Prometheus, Grafana, Alertmanager, Diagnostics de logs, Résolution d'incidents N3 |
+| **Frontend & Mobile** | React, TypeScript, React Native (Expo), CSS3 / Responsive Layouts, Redux Toolkit |
+| **Bases & Caching** | PostgreSQL, Redis, SQLite (Drizzle ORM), Oracle, MySQL, Secrets (SOPS / Vault) |
+| **Supervision & MCO** | Prometheus, Grafana, Alertmanager, Analyse de logs, Résolution d'incidents N3 |
 
 ---
 
-### 🚀 Réalisations & Architectures / Featured Projects
+### 🚀 Réalisations Clés & Architectures
 
 | Projet | Description & Périmètre | Stack Principale |
 | :--- | :--- | :--- |
@@ -65,9 +65,9 @@ Ingénieur diplômé d'un **Master 2 en Réseaux & Sécurité** avec plus de **5
 
 ---
 
-### 📬 Me Contacter / Connect
+### 📬 Me Contacter
 
 * 🌐 **Portfolio Interactif** : [https://faresinside.github.io/](https://faresinside.github.io/)
 * 👔 **LinkedIn** : [linkedin.com/in/faresmetidji](https://www.linkedin.com/in/faresmetidji/)
 * ✉️ **Email Direct** : [fares.metidji@outlook.fr](mailto:fares.metidji@outlook.fr)
-* 📍 **Localisation** : Paris, France *(Full Remote & Déplacements ponctuels en France)*
+* 📍 **Localisation** : Paris, France
