@@ -8,13 +8,13 @@
 
   <p align="center">
     <a href="https://faresinside.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-faresinside.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-faresinside.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/faresmetidji/">
-      <img src="https://img.shields.io/badge/LinkedIn-faresmetidji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/👔_LinkedIn-faresmetidji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:fares.metidji@outlook.fr">
-      <img src="https://img.shields.io/badge/Email-fares.metidji@outlook.fr-8b5cf6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+    <a href="https://faresinside.github.io/#contact">
+      <img src="https://img.shields.io/badge/✉️_Contact-Formulaire_Sécurisé-8b5cf6?style=for-the-badge&logo=shield&logoColor=white" alt="Contact Sécurisé" />
     </a>
   </p>
 
@@ -32,11 +32,11 @@ Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans 
 
 * 🔒 **DevSecOps & Cloud** : Pipelines CI/CD automatisés et durcis (**GitLab CI**, **GitHub Actions**, **Trivy**), conteneurs (**Docker**, **Kubernetes**), serveurs Linux et supervision (**Prometheus**, **Grafana**).
 * ⚡ **Développement Full-Stack & APIs** : Conception d'APIs performantes (**Python 3.12**, **FastAPI**, **TypeScript**, **Node.js**) et d'interfaces web réactives (**React**).
-* 🤖 **Intégration IA & RAG** : Modèles LLM (Gemini, Ollama), bases vectorielles (**PostgreSQL pgvector**), et chaînes de traitement de données.
+* 🤖 **Intégration IA & RAG** : Modèles LLM (Gemini, Ollama), bases vectorielles (**PostgreSQL pgvector**), et chaînes de traitement asynchrones.
 
 ---
 
-### 🛠️ Stack Technique
+### 📊 Dashboard des Compétences & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,githubactions,linux,aws,py,fastapi,react,ts,nodejs,postgres,redis,prometheus,grafana&perline=8" alt="Tech Stack Icons" />
@@ -44,13 +44,34 @@ Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans 
 
 <br/>
 
-| Pôle d'Expertise | Technologies & Outils |
-| :--- | :--- |
-| **DevSecOps & Cloud** | Docker, Kubernetes, GitLab CI, GitHub Actions, Trivy (Scans SAST), Ansible, AWS, Traefik, Linux Hardening |
-| **Backend & IA** | Python 3.12, FastAPI, Pydantic, LLM APIs (Gemini/OpenAI), pgvector (RAG), Ollama, TypeScript, AsyncIO |
-| **Frontend & Mobile** | React, TypeScript, React Native (Expo), CSS3 / Responsive Layouts, Redux Toolkit |
-| **Bases & Caching** | PostgreSQL, Redis, SQLite (Drizzle ORM), Oracle, MySQL, Secrets (SOPS / Vault) |
-| **Supervision & MCO** | Prometheus, Grafana, Alertmanager, Analyse de logs, Résolution d'incidents N3 |
+#### 🛠️ Technologies Clés par Pôle
+
+* **DevSecOps & Cloud** :  
+  `![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)`
+  `![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)`
+  `![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)`
+  `![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)`
+  `![Linux](https://img.shields.io/badge/Linux_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)`
+  `![Trivy](https://img.shields.io/badge/Trivy_Security-1904DA?style=flat-square&logo=aquasec&logoColor=white)`
+  `![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)`
+
+* **Backend, APIs & IA** :  
+  `![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)`
+  `![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)`
+  `![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)`
+  `![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)`
+  `![pgvector](https://img.shields.io/badge/pgvector_RAG-336791?style=flat-square&logo=postgresql&logoColor=white)`
+
+* **Frontend & Mobile** :  
+  `![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)`
+  `![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)`
+  `![CSS3 Modern](https://img.shields.io/badge/CSS3_Flex_Grid-1572B6?style=flat-square&logo=css3&logoColor=white)`
+
+* **Données, Caching & Observabilité** :  
+  `![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)`
+  `![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)`
+  `![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)`
+  `![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)`
 
 ---
 
@@ -65,9 +86,8 @@ Ingénieur diplômé en informatique (Réseaux & Sécurité) avec plus de 5 ans 
 
 ---
 
-### 📬 Me Contacter
+### 📬 Contact Sécurisé
 
-* 🌐 **Portfolio Interactif** : [https://faresinside.github.io/](https://faresinside.github.io/)
+* 🌐 **Portfolio & Formulaire de Contact** : [https://faresinside.github.io/#contact](https://faresinside.github.io/#contact)
 * 👔 **LinkedIn** : [linkedin.com/in/faresmetidji](https://www.linkedin.com/in/faresmetidji/)
-* ✉️ **Email Direct** : [fares.metidji@outlook.fr](mailto:fares.metidji@outlook.fr)
 * 📍 **Localisation** : Paris, France
