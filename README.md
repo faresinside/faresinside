@@ -4,9 +4,6 @@
   <p><strong>DevOps Engineer & Full-Stack Developer</strong></p>
 
   <p align="center">
-    <a href="mailto:fares.metidji@outlook.fr">
-      <img src="https://img.shields.io/badge/Status-🟢_Available_for_Projects-10b981?style=flat-square" alt="Status Badge" />
-    </a>
     <a href="https://www.linkedin.com/in/faresmetidji/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
