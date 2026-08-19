@@ -61,7 +61,6 @@ Ingénieur DevSecOps & logiciel avec plus de 5 ans d'expérience en production e
 * **Périmètre :** Application auto-hébergée déclenchant des actions programmées sur des appareils connectés du réseau local, à partir d'un calendrier de données (~10 000 emplacements).
 * **Architecture :** Backend **FastAPI** avec scheduler interne (**APScheduler**), découverte d'appareils par **mDNS** sous Docker, front-end **React/Vite** multilingue (FR/EN/AR, RTL).
 * **Technologies :** `FastAPI` • `React` • `APScheduler` • `Docker` • `SQLite` • `i18n RTL`
-* **Dépôt public :** [github.com/faresinside/athan-app](https://github.com/faresinside/athan-app) — licence MIT
 
 </details>
 
