@@ -1,17 +1,18 @@
 <div align="center">
 
   <h1>Fares METIDJI</h1>
-  <p><strong>DevSecOps Engineer & Full-Stack Developer</strong></p>
+  <p><strong>Ingénieur DevSecOps & Développeur Full-Stack (Sécurité & IA)</strong></p>
+  <p><em>Master 2 Réseaux & Sécurité • 5+ ans d'expérience en production • Cloud, CI/CD & APIs</em></p>
 
   <p align="center">
+    <a href="https://faresinside.github.io/">
+      <img src="https://img.shields.io/badge/🌐_Portfolio_Live-faresinside.github.io-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/faresmetidji/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/👔_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:fares.metidji@outlook.fr">
-      <img src="https://img.shields.io/badge/Email-fares.metidji@outlook.fr-06b6d4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://faresinside.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-faresinside.github.io-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/✉️_Email-fares.metidji@outlook.fr-8b5cf6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -19,53 +20,51 @@
 
 ---
 
-### 👨‍💻 About
+### 👨‍💻 À Propos / About
 
-I am an engineer with **5+ years of enterprise experience** in application integration, deployment automation, and production reliability across Linux & Windows environments.
+Ingénieur avec plus de **5 ans d'expérience en production** sur des environnements d'entreprise critiques. J'accompagne les équipes et porteurs de projet sur :
 
-I work across software delivery and operations:
-- **DevSecOps & Cloud**: Containerization, CI/CD automation (**Docker**, **Kubernetes**, **GitLab CI**, **Ansible**, **Trivy scans**), and observability (**Prometheus**, **Grafana**).
-- **Development**: Web applications, APIs, and AI integrations using **Python (FastAPI)**, **TypeScript**, **React**, and **pgvector**.
-
-🎓 **Education**: Master's Degree in Networks & Systems Engineering (*CY Cergy Paris University*).  
-🏢 **Track Record**: 5+ years supporting and deploying 150+ critical enterprise services across hybrid Cloud & Linux/Windows infrastructure.
+1. 🔒 **DevSecOps & Cloud** : Pipelines CI/CD automatisés et durcis (**GitLab CI**, **GitHub Actions**, **Trivy SAST**), conteneurs (**Docker**, **Kubernetes**), serveurs Linux et supervision (**Prometheus**, **Grafana**).
+2. ⚡ **Développement Full-Stack & APIs** : Conception de backends performants (**Python 3.12**, **FastAPI**, **TypeScript**, **Node.js**) et d'interfaces web réactives (**React**).
+3. 🤖 **Intégration IA & RAG** : Modèles LLM (Gemini, Ollama), bases vectorielles (**PostgreSQL pgvector**), et chaînes de traitement asynchrones.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Stack Technique
 
-- **DevSecOps & Cloud**: Docker, Kubernetes, GitLab CI, GitHub Actions, Trivy / SAST Scans, Ansible, AWS, Traefik, Linux Hardening
-- **AI & Backend Engineering**: Python 3.12 (FastAPI, Pydantic), LLM APIs (OpenAI, Gemini, Ollama), pgvector / RAG, TypeScript (Fastify, Node.js), AsyncIO
-- **Frontend & Mobile**: React, TypeScript, React Native (Expo), Modern Responsive CSS3, Redux Toolkit
-- **Databases, Security & Caching**: PostgreSQL, pgvector, Secrets Management (Vault, SOPS), SQLite (Drizzle ORM), Redis, Oracle, MySQL
-- **Observability**: Prometheus, Grafana, Nagios, Tier-3 Incident Troubleshooting & SLA Management
-
----
-
-### 🚀 Selected Projects & Case Studies
-
-- **RemoteRadar AI**: Intelligent market scraper & semantic match engine powered by Google Gemini Pro LLM with automated PDF generation. *(FastAPI, Python, Gemini AI, AsyncIO, Docker)*
-- **IntraSys AI Hub**: Private, self-hosted LLM & RAG retrieval platform leveraging local Ollama models and PostgreSQL pgvector embeddings. *(FastAPI, Ollama, pgvector, LangChain, React)*
-- **Enterprise DevSecOps**: Hardened CI/CD pipeline infrastructure with automated vulnerability scanning (Trivy), container orchestration, and telemetry for 150+ applications. *(GitLab CI, Kubernetes, Docker, Trivy, Prometheus)*
-- **ScanCraft**: Offline-first mobile scanner with local SQLite persistence and lightweight REST API caching. *(React Native, Fastify, PostgreSQL, Redis)*
-- **PortaPulse**: Real-time stock availability monitoring service with multi-channel webhook alerting. *(Python, Traefik, Docker Compose, Raspberry Pi)*
+```txt
+DevSecOps & Cloud  │ Docker, Kubernetes, GitLab CI, GitHub Actions, Trivy, Ansible, AWS, Traefik, Linux
+Backend & IA       │ Python 3.12, FastAPI, Pydantic, LLM APIs (Gemini/OpenAI), pgvector, Ollama, TypeScript
+Frontend & Mobile  │ React, TypeScript, React Native (Expo), Modern CSS3 / Responsive Layouts
+Bases & Caching    │ PostgreSQL, Redis, SQLite (Drizzle ORM), Oracle, MySQL, Secrets (SOPS/Vault)
+Observabilité      │ Prometheus, Grafana, Alertmanager, Diagnostics de logs en production
+```
 
 ---
 
-### 📊 GitHub Activity
+### 🚀 Réalisations Clés & Études de Cas
+
+| Projet | Description & Rôle | Technologies Clés |
+| :--- | :--- | :--- |
+| **[IntraSys AI Hub](https://faresinside.github.io/#projects)** | Plateforme IA & RAG privée avec LLM local (Ollama) et recherche vectorielle pgvector pour la gestion documentaire sécurisée. | `FastAPI`, `pgvector`, `Ollama`, `React`, `Docker` |
+| **[Enterprise DevSecOps](https://faresinside.github.io/#projects)** | Infrastructure de pipeline CI/CD durcie avec scans de vulnérabilités automatiques (Trivy), conteneurs et télémétrie pour 150+ applications. | `GitLab CI`, `Kubernetes`, `Docker`, `Trivy`, `Prometheus` |
+| **[RemoteRadar AI](https://faresinside.github.io/#projects)** | Moteur de scraping asynchrone multi-plateformes et analyse sémantique assistée par LLM Gemini avec génération de rapports PDF. | `FastAPI`, `Python 3.12`, `Gemini API`, `Docker Compose` |
+| **[ScanCraft](https://faresinside.github.io/#projects)** | Application mobile offline-first de gestion d'inventaire avec persistance SQLite locale et synchronisation REST API. | `React Native`, `TypeScript`, `Fastify`, `PostgreSQL` |
+
+---
+
+### 📊 Activité GitHub & Statistiques
 
 <div align="center">
-  <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=faresinside&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070a13&title_color=06b6d4&text_color=94a3b8&icon_color=8b5cf6&count_private=true" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresinside&layout=compact&hide_border=true&bg_color=070a13&title_color=06b6d4&text_color=94a3b8&hide=jupyter%20notebook&langs_count=8" height="175" alt="Top Languages" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=faresinside&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070a13&title_color=06b6d4&text_color=94a3b8&icon_color=8b5cf6&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresinside&layout=compact&hide_border=true&bg_color=070a13&title_color=06b6d4&text_color=94a3b8&hide=jupyter%20notebook&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
 ---
 
-### 📬 Contact
+### 📬 Me Contacter
 
-I am open to discuss freelance and remote contract opportunities:
-- 📧 **Email**: [fares.metidji@outlook.fr](mailto:fares.metidji@outlook.fr)
-- 💼 **LinkedIn**: [linkedin.com/in/faresmetidji](https://www.linkedin.com/in/faresmetidji/)
-- 🌐 **Portfolio**: [https://faresinside.github.io/](https://faresinside.github.io/)
+- 🌐 **Portfolio & Démo Live** : [https://faresinside.github.io/](https://faresinside.github.io/)
+- 👔 **LinkedIn** : [linkedin.com/in/faresmetidji](https://www.linkedin.com/in/faresmetidji/)
+- ✉️ **Email Direct** : [fares.metidji@outlook.fr](mailto:fares.metidji@outlook.fr)
+- 📍 **Localisation** : Paris, France *(Full Remote & Déplacements ponctuels en France)*
