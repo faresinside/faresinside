@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fares METIDJI
-### Ingénieur DevSecOps & Full-Stack
+### Ingénieur DevOps & Full-Stack
 Paris, France • [faresinside.github.io](https://faresinside.github.io/)
 
 <br/>
@@ -14,7 +14,7 @@ Paris, France • [faresinside.github.io](https://faresinside.github.io/)
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Web_%26_APIs-FastAPI_%2F_React-06b6d4?style=flat-square" alt="Web & APIs" />
-  <img src="https://img.shields.io/badge/🔒_DevSecOps_%26_Cloud-Docker_%2F_K8s_%2F_CI--CD-8b5cf6?style=flat-square" alt="DevSecOps & Cloud" />
+  <img src="https://img.shields.io/badge/🔒_DevOps_%26_Cloud-Docker_%2F_K8s_%2F_CI--CD-8b5cf6?style=flat-square" alt="DevOps & Cloud" />
   <img src="https://img.shields.io/badge/🤖_Intégration_IA-LLMs_%2F_RAG_%2F_pgvector-06b6d4?style=flat-square" alt="Intégration IA" />
   <img src="https://img.shields.io/badge/🛡️_Supervision_%26_MCO-Prometheus_%2F_Grafana-8b5cf6?style=flat-square" alt="Supervision & MCO" />
 </p>
@@ -25,9 +25,9 @@ Paris, France • [faresinside.github.io](https://faresinside.github.io/)
 
 ### 👨‍💻 Profil & Positionnement
 
-Ingénieur DevSecOps & logiciel avec plus de 5 ans d'expérience en production et titulaire d'un Master 2 en Informatique (Réseaux & Sécurité). J'interviens sur :
+Ingénieur DevOps & logiciel, titulaire d'un Master 2 en Informatique (Réseaux & Sécurité). J'interviens sur :
 
-* 🔒 **DevSecOps & Cloud** : Automatisation d'infrastructures Cloud sécurisées (**Docker**, **Kubernetes**, pipelines CI/CD durcis, scans de vulnérabilités **Trivy**).
+* 🔒 **DevOps & Cloud** : Automatisation d'infrastructures Cloud (**Docker**, **Kubernetes**, pipelines CI/CD, scans de vulnérabilités **Trivy**).
 * ⚡ **Web & APIs** : Développement d'applications web fiables et performantes (**Python 3.12**, **FastAPI**, **TypeScript**, **React**).
 * 🤖 **Intégration IA & RAG** : Déploiement de solutions IA appliquées (**LLMs**, **RAG**, recherche vectorielle **PostgreSQL pgvector**).
 * 🛡️ **Supervision & MCO** : Métrologie temps réel (**Prometheus**, **Grafana**) et maintien en conditions opérationnelles.
@@ -75,7 +75,7 @@ Ingénieur DevSecOps & logiciel avec plus de 5 ans d'expérience en production e
 </details>
 
 <details open>
-<summary><b>4. Infrastructure Entreprise & DevSecOps — Pipeline CI/CD Durci</b></summary>
+<summary><b>4. Infrastructure Entreprise & DevOps — Pipeline CI/CD Durci</b></summary>
 <br/>
 
 * **Périmètre :** Automatisation des déploiements et sécurisation continue pour plus de 150 applications et microservices.
